@@ -14,6 +14,7 @@
 		72BF19001D00EE3900AFB4C8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72BF18FF1D00EE3900AFB4C8 /* Images.xcassets */; };
 		72BF19031D00EE3900AFB4C8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72BF19011D00EE3900AFB4C8 /* LaunchScreen.xib */; };
 		72BF190F1D00EE3900AFB4C8 /* Lesson4InterviewAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 72BF190E1D00EE3900AFB4C8 /* Lesson4InterviewAppTests.m */; };
+		72BF19191D00FD0B00AFB4C8 /* readme.txt in Resources */ = {isa = PBXBuildFile; fileRef = 72BF19181D00FD0B00AFB4C8 /* readme.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		72BF19081D00EE3900AFB4C8 /* Lesson4InterviewAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lesson4InterviewAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72BF190D1D00EE3900AFB4C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72BF190E1D00EE3900AFB4C8 /* Lesson4InterviewAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Lesson4InterviewAppTests.m; sourceTree = "<group>"; };
+		72BF19181D00FD0B00AFB4C8 /* readme.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				72BF18F71D00EE3900AFB4C8 /* AppDelegate.m */,
 				72BF18F91D00EE3900AFB4C8 /* ViewController.h */,
 				72BF18FA1D00EE3900AFB4C8 /* ViewController.m */,
+				72BF19181D00FD0B00AFB4C8 /* readme.txt */,
 				72BF18FC1D00EE3900AFB4C8 /* Main.storyboard */,
 				72BF18FF1D00EE3900AFB4C8 /* Images.xcassets */,
 				72BF19011D00EE3900AFB4C8 /* LaunchScreen.xib */,
@@ -201,6 +204,7 @@
 			files = (
 				72BF18FE1D00EE3900AFB4C8 /* Main.storyboard in Resources */,
 				72BF19031D00EE3900AFB4C8 /* LaunchScreen.xib in Resources */,
+				72BF19191D00FD0B00AFB4C8 /* readme.txt in Resources */,
 				72BF19001D00EE3900AFB4C8 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
